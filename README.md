@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Vue Js, React**
 
-- 👯 I’m looking to collaborate on **Qixer**
-
-- 🤝 I’m looking for help with **Listocean**
-
 - 📫 How to reach me **hasibur2060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
