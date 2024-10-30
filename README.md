@@ -22,10 +22,8 @@
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/your-profile" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" width="30" /></a>
-    <a href="https://twitter.com/your-profile" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height="30" width="30" /></a>
-    <a href="https://facebook.com/your-profile" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="Facebook" height="30" width="30" /></a>
-    <a href="https://instagram.com/your-profile" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="Instagram" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/engineer-hasibur-rahman" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" width="30" /></a>
+    <a href="https://x.com/Hasibur04172740" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height="30" width="30" /></a>
 </p>
 
 ---
