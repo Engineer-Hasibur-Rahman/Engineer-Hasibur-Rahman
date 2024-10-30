@@ -66,6 +66,6 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Engineer-Hasibur-Rahman&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engineer-Hasibur-Rahman&theme=radical" alt="GitHub Streak" />
 </p>
