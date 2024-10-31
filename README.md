@@ -13,6 +13,7 @@
 - **Handyman** project
 
 ### 🌱 Currently Learning
+- **GraphQL**
 - **React.js**
 
 ### 📫 Reach Me At
