@@ -9,9 +9,6 @@
 
 ---
 
-### 🔭 Currently Working On
-- **Handyman** project
-
 ### 🌱 Currently Learning
 - **GraphQL**
 - **React.js**
