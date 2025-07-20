@@ -9,10 +9,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- **GraphQL**
-- **React.js**
-
 ### 📫 Reach Me At
 - **Email**: [hasibur2060@gmail.com](mailto:hasibur2060@gmail.com)
 
